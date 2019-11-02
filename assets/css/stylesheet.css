@@ -19,7 +19,7 @@ body {
    }
 
    .jumbotron{
-    background-image:url("assets/images/ocean.jpg");
+    background-color:beige;
 
    }
    .message {

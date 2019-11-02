@@ -1,6 +1,11 @@
 h2 {
-    font-family: 'Times New Roman', Times, serif;
-    color:lightblue;
+    font-family: cursive;
+    color:black;
+}
+
+h4 {
+    font-family: sans-serif;
+    Color:black;
 }
 body {
     background-image: url("assets/images/criss-cross.png");
@@ -26,3 +31,9 @@ body {
      padding:2px;
     }
 
+    .navbar-brand {
+        padding: 25px;
+        background-color: rgb(79, 232, 243);
+        color: #cccccc;
+
+    }

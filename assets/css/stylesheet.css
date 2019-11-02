@@ -1,0 +1,28 @@
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    color:lightblue;
+}
+body {
+    background-image: url("assets/images/criss-cross.png");
+    background-color: #cccccc;
+   }
+
+   header {
+       background-color: #ffffff;
+   }
+   footer {       background-color:#666666;
+   }
+
+   .jumbotron{
+    background-image:url("assets/images/ocean.jpg");
+
+   }
+   .message {
+       Height:200px; width:600px;
+       }
+
+ .container {
+     background-color: black;       
+     padding:2px;
+    }
+
